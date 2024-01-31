@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application colors -->
+    <color name="primary">#008577</color> <!-- A teal color for the primary theme -->
+    <color name="primaryVariant">#00574B</color> <!-- A darker teal for the primary variant -->
+    <color name="onPrimary">#FFFFFF</color> <!-- White color for text or icons on the primary color -->
+
+    <!-- Button colors -->
+    <color name="green">#004400</color> <!-- A very dark green for button background -->
+    <color name="red">#FF0000</color> <!-- Red color for button text -->
+</resources>

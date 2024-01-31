@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.BigGoButton" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primaryVariant</item>
+        <item name="colorOnPrimary">@color/onPrimary</item>
+        <item name="materialButtonStyle">@style/MyMaterialButton</item>
+    </style>
+
+    <style name="MyMaterialButton" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@null</item>
+    </style>
+
+
+
+
+</resources>
